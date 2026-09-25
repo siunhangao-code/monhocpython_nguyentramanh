@@ -1,6 +1,4 @@
-
 # Vận dụng - Từ điển Anh - Việt
-
 tu_dien_anh_viet = {
     "hello": "xin chao",
     "book": "quyen sach",
