@@ -17,6 +17,9 @@ print("So luot truy cap (global):", so_luot_truy_cap)
 vi_du_bien_local() 
 print("Sau khi goi ham, bien global van la:", so_luot_truy_cap)
 
+
+
+
 # Bài tập 5.1
 print("\n==== Bài tập 5.1 ====")
 danh_sach_so = [1, 2, 3, 4, 5] 
